@@ -1,6 +1,6 @@
 package com.myself223.govnodlyaneadekvatov.Presenter
 
-import com.myself223.govnodlyaneadekvatov.MainActivity
+import com.example.lesson5_1.UI.MainActivity
 
 class PreseterContracts {
     interface  counterView{

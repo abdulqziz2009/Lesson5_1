@@ -1,4 +1,4 @@
-package com.myself223.govnodlyaneadekvatov
+package com.example.lesson5_1.UI
 
 import android.graphics.Color
 import androidx.appcompat.app.AppCompatActivity

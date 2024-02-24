@@ -1,7 +1,7 @@
 package com.myself223.govnodlyaneadekvatov.Presenter
 
 import com.myself223.govnodlyaneadekvatov.Data.CounterModel
-import com.myself223.govnodlyaneadekvatov.MainActivity
+import com.example.lesson5_1.UI.MainActivity
 
 class CounterPresenter(private val model:CounterModel)
     : PreseterContracts.counterPresenter {

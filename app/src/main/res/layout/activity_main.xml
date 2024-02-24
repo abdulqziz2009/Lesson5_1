@@ -7,7 +7,7 @@
     android:orientation="horizontal"
     android:gravity="center"
     android:background="@color/white"
-    tools:context="com.myself223.govnodlyaneadekvatov.MainActivity">
+    tools:context=".UI.MainActivity">
 
 
     <com.google.android.material.button.MaterialButton
